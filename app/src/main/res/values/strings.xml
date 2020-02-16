@@ -4,6 +4,7 @@
     <string name="todo">TODO</string>
 
     <string-array name="country">
+        <item>Country</item>
         <item>Indonesia</item>
         <item>Canada</item>
         <item>Amerika</item>
