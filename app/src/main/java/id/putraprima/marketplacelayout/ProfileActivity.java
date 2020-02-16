@@ -13,7 +13,7 @@ public class ProfileActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profile);
     }
-    public void chooseBackReg(View view) {
+    public void chooseRegister(View view) {
         Intent intent = new Intent(this, RegisterActivity.class);
         startActivity(intent);
     }

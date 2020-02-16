@@ -21,7 +21,7 @@ public class LoginActivity extends AppCompatActivity {
         Intent intent = new Intent(this, ProfileActivity.class);
         startActivity(intent);
     }
-    public void chooseBack(View view) {
+    public void chooseProvider(View view) {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
