@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MarketplaceLayout</string>
+    <string name="enter_as_a">Enter as a</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Canada</item>
+        <item>Amerika</item>
+    </string-array>
 </resources>
