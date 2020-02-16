@@ -26,8 +26,8 @@
     <TextView
         android:layout_width="46dp"
         android:layout_height="27dp"
-        android:layout_marginStart="340dp"
-        android:layout_marginLeft="340dp"
+        android:layout_marginStart="364dp"
+        android:layout_marginLeft="364dp"
         android:layout_marginRight="40dp"
         android:fontFamily="@font/futura_pt_demibold"
         android:text="Edit"
@@ -37,7 +37,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.034" />
+        app:layout_constraintVertical_bias="0.022" />
 
     <TextView
         android:id="@+id/textView"
@@ -80,10 +80,10 @@
         android:src="@drawable/edit_icon"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.983"
+        app:layout_constraintHorizontal_bias="0.944"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.265" />
+        app:layout_constraintVertical_bias="0.264" />
 
     <TextView
         android:id="@+id/textView2"
